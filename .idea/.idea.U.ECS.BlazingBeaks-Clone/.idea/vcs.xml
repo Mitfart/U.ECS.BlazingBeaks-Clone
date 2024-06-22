@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Assets/Plugins/Mitfart/LeoECSLite.UniLeo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Assets/Plugins/Mitfart/LeoECSLite.UnityIntegration" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Assets/Plugins/Mitfart/LeoECSLite.UtilityAI" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Assets/Plugins/Mitfart/U.Extensions" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Assets/Plugins/Mitfart/U.Structs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Assets/Plugins/Mitfart/U.UI_Elements" vcs="Git" />
+  </component>
+</project>
